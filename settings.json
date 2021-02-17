@@ -1,14 +1,17 @@
 {
-	"RECEIVER_GROUP_1":
+    "GROUPS" : {
+
+	"TEAM_1" :
         {
 			"emails": ["vaibhavk@mkcl.org"],
 			"mobiles": ["9405500369"]
         },
-    "RECEIVER_GROUP_2":    
+    "TEAM_2" :    
         {
 			"emails": ["pranabs@mkcl.org", "abhijeetw@mkcl.org", "vaibhavk@mkcl.org"],
 			"mobiles": ["8108969967", "9762956186", "9405500369"]
         }
+    }
 
 }
 
